@@ -20,6 +20,10 @@ mode        : selfcontained # {standalone, draft}
 
 ## Slide 2
 
+```{r}
+data(cars)
+plot(cars)
+```
 
 
 

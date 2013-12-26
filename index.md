@@ -21,5 +21,13 @@ mode        : selfcontained # {standalone, draft}
 ## Slide 2
 
 
+```r
+data(cars)
+plot(cars)
+```
+
+![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
+
+
 
 
